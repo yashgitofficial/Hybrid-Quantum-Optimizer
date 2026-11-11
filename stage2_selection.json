@@ -1,0 +1,28 @@
+{
+    "candidates": [
+        "C0387",
+        "C0028",
+        "C0059",
+        "C0079",
+        "C0322",
+        "C0091",
+        "C0111",
+        "C0020",
+        "C0338",
+        "C0193"
+    ],
+    "selected_customers": [
+        "C0059",
+        "C0079",
+        "C0322",
+        "C0091",
+        "C0111",
+        "C0020"
+    ],
+    "total_budget_used": 13,
+    "total_capacity_used": 16,
+    "objective_value": 18.104419180208406,
+    "classical_brute_force_optimum": 18.104419180208406,
+    "optimality_gap": 0.0,
+    "best_bitstrings": "0011111100"
+}

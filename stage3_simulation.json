@@ -1,0 +1,32 @@
+{
+    "selected_ids": [
+        "C0059",
+        "C0079",
+        "C0322",
+        "C0091",
+        "C0111",
+        "C0020"
+    ],
+    "qubit_order": "q0 to q5 maps to selected_ids sequentially",
+    "probabilities": [
+        0.2038102913460396,
+        0.20097404723416404,
+        0.19595831023714697,
+        0.19094063635206626,
+        0.1894898008592475,
+        0.18444765254194248
+    ],
+    "circuit_parameters_thetas": [
+        0.9367873017881867,
+        0.9297281188607045,
+        0.9171522400068898,
+        0.9044491006392915,
+        0.900752424151079,
+        0.8878198080658947
+    ],
+    "measurement_shots": 10000,
+    "quantum_estimated_probability": 0.093,
+    "exact_analytical_result": 0.09193085027498289,
+    "monte_carlo_benchmark": 0.0872,
+    "absolute_quantum_error": 0.0010691497250171073
+}
